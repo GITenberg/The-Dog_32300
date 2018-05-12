@@ -6,8 +6,8 @@ covers:
 creator:
   authors:
   - agent_name: Dinks
-    birthdate: &id001 1807
-    deathdate: &id002 1858
+    birthdate: 1807
+    deathdate: 1858
     gutenberg_agent_id: '35785'
     url: http://www.gutenberg.org/2009/agents/35785
     wikipedia:
@@ -28,14 +28,16 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41700
   editor:
     agent_name: Forester, Frank
-    birthdate: *id001
-    deathdate: *id002
+    birthdate: 1807
+    deathdate: 1858
     gutenberg_agent_id: '35786'
     url: http://www.gutenberg.org/2009/agents/35786
     wikipedia:
     - http://www.gutenberg.org/browse/authors/h#a8846
     - http://www.gutenberg.org/browse/authors/d#a35785
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32300#The-Dog
 gutenberg_bookshelf: Animals-Domestic
 gutenberg_issued: '2010-05-08'
 gutenberg_type: Text
