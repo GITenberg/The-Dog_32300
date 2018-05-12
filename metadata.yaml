@@ -1,0 +1,53 @@
+_repo: The-Dog_32300
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Dinks
+    birthdate: &id001 1807
+    deathdate: &id002 1858
+    gutenberg_agent_id: '35785'
+    url: http://www.gutenberg.org/2009/agents/35785
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/h#a8846
+    - http://www.gutenberg.org/browse/authors/f#a35786
+  - agent_name: Mayhew, Edward
+    aliases:
+    - Mayhew, E. (Edward)
+    - Mayhew
+    deathdate: 1868
+    gutenberg_agent_id: '41052'
+    url: http://www.gutenberg.org/2009/agents/41052
+  - agent_name: Hutchinson, W. N. (William Nelson)
+    alias: Hutchinson, William Nelson
+    birthdate: 1803
+    deathdate: 1895
+    gutenberg_agent_id: '41700'
+    url: http://www.gutenberg.org/2009/agents/41700
+  editor:
+    agent_name: Forester, Frank
+    birthdate: *id001
+    deathdate: *id002
+    gutenberg_agent_id: '35786'
+    url: http://www.gutenberg.org/2009/agents/35786
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/h#a8846
+    - http://www.gutenberg.org/browse/authors/d#a35785
+description: ''
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2010-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs'
+- !lcsh 'Dogs -- Training'
+- !lcc 'SF'
+title: The Dog
+url: http://www.gutenberg.org/ebooks/32300
